@@ -18,3 +18,6 @@ You may use these assets in your own creations/commissions without having to cre
 Please do not distribute/publish these assets without my permission, or distribute my work if it hasn't been appropriately transformed first.
 
 You can message me on Discord (phorio.) if you have any questions or need help with the schematics.
+
+
+If you would like to make a donation, my kofi link is in my bio <3
