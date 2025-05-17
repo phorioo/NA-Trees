@@ -3,10 +3,13 @@
 Most of these assets are NOT survival friendly, and I recommend doing /gamerule randomTickSpeed 0 in game to avoid breaking debugged blocks. Alternatively if you're using Axiom, enabling No Updates will have the same effect :)
 This collection was made in 1.21.5, so there may be missing blocks if you load it into an older version of Minecraft.
 
+To view the trees, I have attached an imgur link: 
+
 This collection contains .schem files for the following:
 - Ponderosa Pine (12 Variants)
 - Lodgepole Pine (12 Variants)
 - Spruce (8 Variants)
+- Snowy Spruce (6 Variants)
 
 
 ## Use Rights
@@ -18,6 +21,8 @@ You may use these assets in your own creations/commissions without having to cre
 Please do not distribute/publish these assets without my permission, or distribute my work if it hasn't been appropriately transformed first.
 
 You can message me on Discord (phorio.) if you have any questions or need help with the schematics.
+
+
 
 
 If you would like to make a donation, my kofi link is in my bio <3
