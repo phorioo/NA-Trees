@@ -3,7 +3,7 @@
 Most of these assets are NOT survival friendly, and I recommend doing /gamerule randomTickSpeed 0 in game to avoid breaking debugged blocks. Alternatively if you're using Axiom, enabling No Updates will have the same effect :)
 This collection was made in 1.21.5, so there may be missing blocks if you load it into an older version of Minecraft.
 
-To view the trees, view this imgur link: https://imgur.com/a/Pee94hJ
+To view the trees, view this imgur link: https://imgur.com/a/cHONAvw
 
 This collection contains .schem files for the following:
 - Ponderosa Pine (12 Variants)
