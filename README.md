@@ -9,7 +9,7 @@ This collection contains .schem files for the following:
 - Ponderosa Pine (12 Variants)
 - Lodgepole Pine (12 Variants)
 - Spruce (8 Variants)
-- Snowy Spruce (4 Variants)
+- Snowy Spruce (6 Variants)
 
 
 ## Use Rights
