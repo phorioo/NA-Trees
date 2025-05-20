@@ -10,7 +10,7 @@ This collection contains .schem files for the following:
 - Lodgepole Pine (12 Variants)
 - Spruce (8 Variants)
 - Snowy Spruce (6 Variants)
-- Red Cedar (3 Variants)
+- Red Cedar (4 Variants)
 - Jack Pine (12 Variants)
 
 
